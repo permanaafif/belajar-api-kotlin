@@ -46,7 +46,12 @@ class MainActivity : AppCompatActivity() {
 //        getCommentAPI()
         buatUser()
         cariID()
+        fnlain()
 
+    }
+
+    private fun fnlain() {
+        TODO("Not yet implemented")
     }
 
     private fun cariID() {
